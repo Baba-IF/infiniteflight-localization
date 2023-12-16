@@ -2215,10 +2215,10 @@ Ralentissez pour éviter d'autres violations.</value>
     <value>2 secondes</value>
   </data>
   <data name="Commands.ElevatorTrimDown" xml:space="preserve">
-    <value>Abaissement de l’ascenseur</value>
+    <value>Abaissement de la gouverne de profondeur</value>
   </data>
   <data name="Commands.ElevatorTrimUp" xml:space="preserve">
-    <value>Garniture d’ascenseur</value>
+    <value>Remontée de la gouverne de profondeur</value>
   </data>
   <data name="Commands.ThrottleDown" xml:space="preserve">
     <value>Accélérez vers le bas</value>
@@ -2345,7 +2345,7 @@ Consultez la carte pour plus d’informations</value>
     <value>Montrez les avions anciens qui ne reflètent pas les dernières évolutions (cockpits virtuels de haute qualité, instruments, etc...)</value>
   </data>
   <data name="Settings.General.ShowLegacyAircraft.Warning" xml:space="preserve">
-    <value>Les avions hérités sont des extras des anciennes versions d’Infinite Flight et ne sont pas de la même qualité. Montrez-leur quand même?</value>
+    <value>Les anciens avions sont des extras des anciennes versions d’Infinite Flight et ne sont pas de la même qualité. Montrez-leur quand même?</value>
   </data>
   <data name="Error.CannotOpenBrowser" xml:space="preserve">
     <value>Aucun navigateur n’est disponible pour ouvrir ce lien. Assurez-vous qu’un navigateur est installé et contactez le support si le problème persiste (code d’erreur {0})</value>
@@ -2433,7 +2433,7 @@ Consultez la carte pour plus d’informations</value>
     <comment>TEMPERATURE</comment>
   </data>
   <data name="FlightMenu.TimeUpper" xml:space="preserve">
-    <value>HEURE</value>
+    <value>DATE & HEURE</value>
     <comment>TIME</comment>
   </data>
   <data name="FlightMenu.TypeUpper" xml:space="preserve">
@@ -2466,7 +2466,7 @@ Consultez la carte pour plus d’informations</value>
     <value>LONG COURRIER</value>
   </data>
   <data name="FlightMissionControl.MediumHaulUpper" xml:space="preserve">
-    <value>COURRIER MOYEN</value>
+    <value>MOYEN COURRIER</value>
   </data>
   <data name="FlightMissionControl.NoMissionsFoundUpper" xml:space="preserve">
     <value>AUCUNE MISSION TROUVÉE</value>
@@ -2661,7 +2661,7 @@ Consultez la carte pour plus d’informations</value>
     <value>Center</value>
   </data>
   <data name="FlightMissionControl.FeaturedMissionUpper" xml:space="preserve">
-    <value>FEATURED MISSION</value>
+    <value>MISSION EN VEDETTE</value>
   </data>
   <data name="Global.You" xml:space="preserve">
     <value>Vous</value>
@@ -2712,7 +2712,7 @@ Consultez la carte pour plus d’informations</value>
     <value>Commencer le vol ?</value>
   </data>
   <data name="NewsControl.Timeline" xml:space="preserve">
-    <value>Timeline</value>
+    <value>Chronologie</value>
   </data>
   <data name="NewsControl.Tutorial" xml:space="preserve">
     <value>Tutoriel</value>
